@@ -1,5 +1,7 @@
 # Urban Grocers API Testing  
 
+![Header Banner](assets/Urban.grocers.png)
+
 The **Urban Grocers** project is a simulated online grocery service where I validated new backend functionality by testing specific API endpoints against documented requirements.  
 
 ## Project Goal  
@@ -15,24 +17,30 @@ The outcome was a successful validation of the back-end requirements and a stron
 
 This project enhanced my ability to align technical testing with **real product needs**.  
 
----
+
 
 ## Key Results
 - Designed and executed **23 test cases** covering positive, negative, and boundary scenarios.  
 - Tested **2 critical API endpoints** using both **GET** and **POST** requests.  
 - Reported and documented **9 bugs**, contributing to improved API reliability and alignment with requirements.  
 
----
 
 ## Tools & Skills
 <span>
 
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"> 
 <img src="https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white">
-<img src="https://img.shields.io/badge/API%20Testing?style=flat&logo=icon&logoColor=purple&logoSize=30&color=purple">
-- 🧪 **API Testing** methodologies (functional, negative, and boundary testing).  
-- 📋 **Test Planning** to structure and prioritize test cases.  
+<img src="https://img.shields.io/badge/API%20Testing-6E4AFF?style=for-the-badge">
+<img src="https://img.shields.io/badge/Test%20Planning-1E90FF?style=for-the-badge">
 
----
+
+
 
 ## Project Evidence
+
+### Bugs Reported (JIRA) 
+![JIRA Test Plan](assets/Jira.png)
+![JIRA Test Plan](assets/Jira-1.png)
+
+### Postman Test Execution and API Response Validation
+![Postman Execution](assets/postman-1.png) 
